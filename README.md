@@ -1,4 +1,4 @@
-# Rhombus — Distributed NL-to-Regex Data Processing Platform
+Distributed NL-to-Regex Data Processing Platform
 
 This is a web application that allows users to:
 - upload CSV or Excel files,
