@@ -89,8 +89,8 @@ https://github.com/user-attachments/assets/e3c830d8-e3ec-4067-96f7-de4e290efb61
     2. A Google Gemini API key (free tier: https://ai.google.dev)
 
 ### Local development
-    1. git clone https://github.com/zlib-eng/rhombusAI-assessment.git
-    2. cd rhombusAI-assessment
+    1. git clone https://github.com/zlib-eng/distributed-nl-to-regex.git
+    2. cd distributed-nl-to-regex
 
 ### Create your environment file
     3. cp .env.example .env   # then fill in GEMINI_API_KEY and passwords
