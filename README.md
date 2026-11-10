@@ -239,33 +239,6 @@ At the current three types this is the right size; if the catalogue grew substan
 ---
 
 ## Tech Stack
-<<<<<<< HEAD
-Django + Django RestFramework · Celery · Redis · PySpark · PostgreSQL · React (Vite) · Google Gemini API · Flower · Docker Compose · Gunicorn
-=======
 Django + DRF · Celery · Redis · PySpark · PostgreSQL · React (Vite) · Google Gemini API · Flower · Docker Compose · Gunicorn
 
 
-## Demo Video
-[Embed the video here — see recording guide]
-
-transform fail
-https://youtu.be/96AqT8GLidY 
-
-standardize format
-https://youtu.be/N5a5D-XcjDY
-
-paigination
-https://youtu.be/95OHsUBYWKc 
-
-million row
-https://youtu.be/_-ze8hXNIJs
-
-find replace 
-https://youtu.be/gaz6mX4spVg
-
-extract
-https://youtu.be/oFDHKSTfOeo
-
-cancelled
-https://youtu.be/Eovjzsk5MvQ 
->>>>>>> 6e59f08 (added tests)
